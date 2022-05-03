@@ -1,2 +1,2 @@
 # double-pendulum
-Project 3 for my computational physics class (PHY68)
+This notebook details the Lagrangian derivation for a double pendulum including the implementation of three numerical methods to calculate the angle trajectory over time.
